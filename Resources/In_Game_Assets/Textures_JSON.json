@@ -1,0 +1,216 @@
+{
+  "Balls": {
+    "White.png": {
+      "data": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Yellow_Solid.png": {
+      "data": {
+        "top_left_x": 32,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Blue_Solid.png": {
+      "data": {
+        "top_left_x": 64,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Red_Solid.png": {
+      "data": {
+        "top_left_x": 96,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Pink_Solid.png": {
+      "data": {
+        "top_left_x": 128,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Orange_Solid.png": {
+      "data": {
+        "top_left_x": 160,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Green_Solid.png": {
+      "data": {
+        "top_left_x": 192,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Maroon_Solid.png": {
+      "data": {
+        "top_left_x": 224,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Black.png": {
+      "data": {
+        "top_left_x": 256,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Yellow_Stripe.png": {
+      "data": {
+        "top_left_x": 288,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Blue_Stripe.png": {
+      "data": {
+        "top_left_x": 320,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Red_Stripe.png": {
+      "data": {
+        "top_left_x": 352,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Pink_Stripe.png": {
+      "data": {
+        "top_left_x": 384,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Orange_Stripe.png": {
+      "data": {
+        "top_left_x": 416,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Green_Stripe.png": {
+      "data": {
+        "top_left_x": 448,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    },
+    "Maroon_Stripe.png": {
+      "data": {
+        "top_left_x": 480,
+        "top_left_y": 0,
+        "width": 32,
+        "height": 32
+      }
+    }
+  },
+  "Cues": {
+    "Default.png": {
+      "data": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Mahogany.png": {
+      "data": {
+        "top_left_x": 2,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Gilded.png": {
+      "data": {
+        "top_left_x": 4,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Crimson red.png": {
+      "data": {
+        "top_left_x": 6,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Ocean blue.png": {
+      "data": {
+        "top_left_x": 8,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Grass green.png": {
+      "data": {
+        "top_left_x": 10,
+        "top_left_y": 0,
+        "width": 2,
+        "height": 96
+      }
+    },
+    "Twig.png": {
+      "data": {
+        "top_left_x": 12,
+        "top_left_y": 0,
+        "width": 6,
+        "height": 96
+      }
+    },
+      "BFG.png": {
+      "data": {
+        "top_left_x": 18,
+        "top_left_y": 0,
+        "width": 10,
+        "height": 96
+      }
+    }
+  },
+  "Frames": {
+    "Player_1.png": {
+      "data": {
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 40,
+        "height": 40
+      }
+    },
+    "Player_2.png": {
+      "data": {
+        "top_left_x": 40,
+        "top_left_y": 0,
+        "width": 40,
+        "height": 40
+      }
+    }
+  }
+}
